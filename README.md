@@ -114,9 +114,12 @@ tax: Stores tax and cost details.
 bill: Stores billing information.
 
 ### Screenshots
-![Screenshot 2024-07-17 110339](https://github.com/user-attachments/assets/930c083b-d4ce-49d3-8dac-fb87c8d35b3e)
-![Screenshot 2024-07-17 110407](https://github.com/user-attachments/assets/24b0fea3-e49b-4201-88af-f1774dc1c7ed)
-![Screenshot 2024-07-17 110455](https://github.com/user-attachments/assets/3c0d972d-f778-404b-a08b-e2a5e421c976)
+![Screenshot 2024-06-25 131440](https://github.com/user-attachments/assets/e11b9f54-c77d-420a-96cf-a3b59075e026)
+![Screenshot 2024-06-25 131535](https://github.com/user-attachments/assets/5be96bff-9823-4e5d-ab8a-88be5cfcdc36)
+![Screenshot 2024-06-25 131649](https://github.com/user-attachments/assets/c39b353c-50c9-4bd9-adb2-3a2ca4b29de0)
+![Screenshot 2024-06-25 131502](https://github.com/user-attachments/assets/5cba5bd4-031b-48a6-8f5c-efc731c3003c)
+![Screenshot 2024-06-26 102848](https://github.com/user-attachments/assets/9af316eb-941d-42ec-a480-fd983b3d65d9)
+![Screenshot 2024-07-17 120238](https://github.com/user-attachments/assets/2f1c3531-adce-452e-a995-f19e11a9ae66)
 
 
 
